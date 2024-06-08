@@ -1,3 +1,0 @@
-array = list(map(int, input("Enter the elements of the array separated by space: ").split()))
-largest_element = max(array)
-print(f"The largest element in the array is: {largest_element}")
